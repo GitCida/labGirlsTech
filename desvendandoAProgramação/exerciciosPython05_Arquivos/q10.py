@@ -1,7 +1,4 @@
 # Criar Agenda Simples
-# Monte um programa que permita cadastrar contatos (nome e telefone) e salve no
-# arquivo agenda.txt. Cada contato deve ocupar uma linha.
-# Objetivo: Aplicação real com uso de arquivos e inputs.
 acao = ''
 while acao != '0':
     acao = input('''
